@@ -1,0 +1,28 @@
+[
+    {
+       "Full Text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, test issue to make the test more reliable.",
+       "DateTimeCreated":"2020-10-18T05:42:27.254Z",
+       "DateTimeLastModified":"2020-10-18T05:42:30.864Z",
+       "Preview":"... test issue to make the test more reliable.",
+       "From":{
+          "EmailAddress":{
+             "Name":"John Doe",
+             "Address":"JohnDoe@test.com"
+          }
+       },
+       "Type":"Post"
+    },
+    {
+       "Full Text":"When courage is needed, you’re never around. Those medals you wear on your moth-eaten chest should be there for bungling at which you are best. So, stop that pigeon, stop that pigeon, stop that pigeon, stop that pigeon, stop that pigeon, stop that pigeon, stop that pigeon. Howwww! Nab him, test him, tab him, grab him, stop that pigeon now. ",
+       "DateTimeCreated":"2020-10-15T05:42:27.254Z",
+       "DateTimeLastModified":"2020-10-16T05:42:30.864Z",
+       "Preview":"...test him, tab him, grab him, stop that pigeon now.",
+       "From":{
+          "EmailAddress":{
+             "Name":"Promimus",
+             "Address":"Promimus@test.com"
+          }
+       },
+       "Type":"Reply"
+    }
+ ]
